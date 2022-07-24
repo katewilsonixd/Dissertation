@@ -1,2 +1,3 @@
-# Dissertation ( https://github.com/katewilsonixd/Dissertation )
+# Dissertation 
+[Dissertation](https://github.com/katewilsonixd/Dissertation)
  
