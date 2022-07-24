@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Merriweather, serif;
-	line-height: -5px;
+	line-height: -10px;
 }
 
 html {
@@ -37,6 +37,9 @@ blockquote {
 	
 
 }
+
+
+
 
 /*-----------------sidenavbutton-------------*/
 .menu-toggle {
@@ -143,6 +146,7 @@ h2 {
 .content p {
   color: black;
 	margin-top: 20px;
+	line-height: -20px;
 }
 
 .menu-toggle {
